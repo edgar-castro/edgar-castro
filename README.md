@@ -1,6 +1,6 @@
 ## Hi! 
 
- I'm a frontend developer, and cat lover 🐈
+ I'm a Edgar Castro, frontend developer and cat lover 🐈
 
 <p align="center">
 	<img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="200"></img>
